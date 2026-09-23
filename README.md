@@ -68,11 +68,5 @@ music-player/
 ## 📸 Preview
 
 
-
-
-https://github.com/user-attachments/assets/ab3d1720-e708-4d0c-8cde-70f69568d181
-
-
-
-
+https://github.com/user-attachments/assets/31031700-306f-4e13-8064-894336952932
 
