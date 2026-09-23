@@ -69,7 +69,10 @@ music-player/
 
 
 
-https://github.com/user-attachments/assets/5051fb27-9c80-48c4-b465-4105938992a7
+
+https://github.com/user-attachments/assets/ab3d1720-e708-4d0c-8cde-70f69568d181
+
+
 
 
 
